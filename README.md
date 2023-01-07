@@ -2,7 +2,6 @@
 [![jiang111/image](https://jiang111.github.io/images/awesome.svg)](https://github.com/jiang111/awesome-android-tips)   [![](https://badge.juejin.im/entry/57ad3f87c4c9710054687895/likes.svg?style=plastic)](https://juejin.im/entry/57ad3f87c4c9710054687895/detail)
 <br />
 
-
 EnglishVersion ->_->:https://github.com/jiang111/awesome-android-tips/blob/master/README-en.md
 
 值得收藏的AS插件 ->_->:https://github.com/jiang111/awesome-androidstudio-plugins <br />
